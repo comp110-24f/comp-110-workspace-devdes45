@@ -3,6 +3,6 @@
 __author__ = "730755654"
 
 
-def greet(name: str) -> str:
+def sum(name: str) -> str:
     """A welcoming first function definition."""
     return "Hello, " + name + "!"
